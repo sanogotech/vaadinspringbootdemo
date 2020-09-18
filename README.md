@@ -1,5 +1,9 @@
 # vaadinspringbootdemo
 
+## Build
+
+mvn -C clean package -Pproduction
+
 ## Installer PWA
 
 * Installer une PWA SUR Android
