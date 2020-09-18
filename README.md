@@ -1,8 +1,10 @@
 # vaadinspringbootdemo
 
 ## Build
+-- Install  nodejs
 
-mvn -C clean package -Pproduction
+-- mvn clean spring-boot:run
+
 
 ## Installer PWA
 
